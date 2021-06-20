@@ -22,7 +22,7 @@
 >> ###### [(Return to top)]()
 >> </details>
 >>
-> ## snapshot of app
+> ## Snapshot
 >> <details>
 >>   <summary>Show</summary>
 >>
@@ -118,8 +118,8 @@
 >>
 >>> | | **Deployed Sites** | **Repositories** |
 >>> |--|--|--|
->>> | Front End App: | [appUrl](appUrl) | [appRepositoryUrl](appRepositoryUrl)|
->>> | Database App | [dbUrl](dbUrl) | [dbRepositoryUrl](dbRepositoryUrl) |
+>>> | Front End App: | [appUrl](appUrl) | [EZDealer-client](https://github.com/ECS-Studio/EZDealer-client)|
+>>> | Database App | [dbUrl](dbUrl) | [EZDealer-api](https://github.com/ECS-Studio/EZDealer-api) |
 >>>
 >> ###### [(Return to top)]()
 >> </details>
