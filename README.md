@@ -2,11 +2,11 @@
 > <details>
 >  <summary>Contents</summary>
 >
->> | [About]() | [Technologies Used]() |
+>> | [About](https://github.com/ECS-Studio/EZDealer-client#about-app) | [Technologies Used](https://github.com/ECS-Studio/EZDealer-client#technologies-employed) |
 >> |--|--|
->> | [Wireframe]() | [Future Iterations]() |
->> | [Snappshot]() | [Links]() |
->> | [Planning]() |  |
+>> | [Wireframe](https://github.com/ECS-Studio/EZDealer-client#wireframe) | [Future Iterations](https://github.com/ECS-Studio/EZDealer-client#future-iterations) |
+>> | [Snappshot](https://github.com/ECS-Studio/EZDealer-client#snapshot) | [Links](https://github.com/ECS-Studio/EZDealer-client#links) |
+>> | [Planning](https://github.com/ECS-Studio/EZDealer-client#planning) |  |
 >>
 > </details>
 >
@@ -19,7 +19,7 @@
 >>   <summary>Show</summary>
 >>
 >>> ![Wireframe](linkToWireframe)
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
 > ## Snapshot
@@ -27,7 +27,7 @@
 >>   <summary>Show</summary>
 >>
 >>> ![snapshot](linkToSnapshot)
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
 > ## Planning
@@ -64,7 +64,7 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
 >
@@ -76,7 +76,7 @@
 >>> |--|--|--|--|
 >>> | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) |
 >>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
 >
@@ -108,7 +108,7 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
 >
@@ -121,6 +121,6 @@
 >>> | Front End App: | [appUrl](appUrl) | [EZDealer-client](https://github.com/ECS-Studio/EZDealer-client)|
 >>> | Database App | [dbUrl](dbUrl) | [EZDealer-api](https://github.com/ECS-Studio/EZDealer-api) |
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
