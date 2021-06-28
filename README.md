@@ -18,7 +18,7 @@
 >> <details>
 >>   <summary>Show</summary>
 >>
->>> ![EZDealer Client Wireframe](https://user-images.githubusercontent.com/4008762/123665444-49883a00-d806-11eb-9c15-6a528e3f2130.jpg)
+>>> ![EZDealer Customer Flow](https://user-images.githubusercontent.com/4008762/123666477-3d50ac80-d807-11eb-8212-83e4ae1e2020.jpg)
 >> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
