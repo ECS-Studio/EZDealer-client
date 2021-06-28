@@ -18,7 +18,7 @@
 >> <details>
 >>   <summary>Show</summary>
 >>
->>> ![Wireframe](linkToWireframe)
+>>> ![EZDealer Client Wireframe](https://user-images.githubusercontent.com/4008762/123665444-49883a00-d806-11eb-9c15-6a528e3f2130.jpg)
 >> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
@@ -26,7 +26,10 @@
 >> <details>
 >>   <summary>Show</summary>
 >>
->>> ![snapshot](linkToSnapshot)
+>>> ![EZDealer Login](https://user-images.githubusercontent.com/4008762/123666021-d4693480-d806-11eb-9af3-b842a108813c.jpg)
+>>>
+>>> ![EZDealer Signedin](https://user-images.githubusercontent.com/4008762/123666112-eba82200-d806-11eb-8b99-cfe5c31b4440.jpg)
+>>
 >> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-client#ezdealer-client)
 >> </details>
 >>
